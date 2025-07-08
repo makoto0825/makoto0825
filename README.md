@@ -1,6 +1,6 @@
 ## Hi there, I’m Makoto Tsuga 👋
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** and former **AI Researcher** with experience in both **Japan 🇯🇵** and **Canada 🇨🇦**.
+Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** and former **AI Researcher**.
 
 I love building scalable web applications and developing AI-powered solutions.
 
