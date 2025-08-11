@@ -34,7 +34,7 @@ I love building scalable web applications and developing AI-powered solutions.
 ---
 
 ### 📂 Featured Projects
-- 🔍 **Image Retrieval System For Fashion**  
+- 🔍 **Production Line Timer Tracking System**  
   Afull-stack web application for tracking production line work time, managing progress, recording defNodeects, and handling overtime.  
   [Visit the Site](https://production-timer-frontend.onrender.com/login)  
   *Skills: React, Nodejs(express), MongoDB, Render*
