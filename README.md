@@ -34,6 +34,10 @@ I love building scalable web applications and developing AI-powered solutions.
 ---
 
 ### 📂 Featured Projects
+- 🔍 **Image Retrieval System For Fashion**  
+  Afull-stack web application for tracking production line work time, managing progress, recording defNodeects, and handling overtime.  
+  [Visit the Site](https://production-timer-frontend.onrender.com/login)  
+  *Skills: React, Nodejs(express), MongoDB, Render*
 
 - 🔍 **Image Retrieval System For Fashion**  
   AI-powered image retrieval system for fashion e-commerce using deep metric learning.  
